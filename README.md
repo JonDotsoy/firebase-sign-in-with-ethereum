@@ -16,7 +16,7 @@ npm i firebase firebase-sign-in-with-ethereum
 
 ## Use in you project
 
-1. Call the module `firebase-sign-in-with-ethereum` and use the `signInWithEthereum` method defined the auth instance of the Firebase SDK.
+1. Call the `signInWithEthereum` method and indicate the auth instance of the Firebase SDK.
 
 ```ts
 import { signInWithEthereum } from "firebase-sign-in-with-ethereum";
