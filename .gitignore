@@ -3,4 +3,3 @@ node_modules
 *.js
 *.tgz
 *.d.ts
-assets/*
