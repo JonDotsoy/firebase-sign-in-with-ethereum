@@ -1,0 +1,24 @@
+{
+  "name": "firebase-sign-in-with-ethereum",
+  "version": "0.1.0",
+  "description": "Asynchronously signs in using an Ethereum address",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "tsc",
+    "release": "standard-version"
+  },
+  "keywords": [
+    "firebase",
+    "sign-in",
+    "ethereum"
+  ],
+  "author": "Jonathan Delgado <hi@jon.soy> (https://jon.soy)",
+  "license": "MIT",
+  "devDependencies": {
+    "standard-version": "^9.3.2",
+    "typescript": "^4.5.5"
+  },
+  "peerDependencies": {
+    "firebase": "^9.6.5"
+  }
+}
