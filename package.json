@@ -1,6 +1,6 @@
 {
   "name": "firebase-sign-in-with-ethereum",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Asynchronously signs in using an Ethereum address",
   "main": "sign-in-with-ethereum.js",
   "publishConfig": {
